@@ -1,4 +1,4 @@
-package com.study.modernjava8;
+package com.study.modernjava8.e01;
 
 public class OopAndFpExample {
     public static void main(String[] args) {

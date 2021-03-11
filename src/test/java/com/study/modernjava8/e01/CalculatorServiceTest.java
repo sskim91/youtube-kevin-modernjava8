@@ -1,4 +1,4 @@
-package com.study.modernjava8;
+package com.study.modernjava8.e01;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
